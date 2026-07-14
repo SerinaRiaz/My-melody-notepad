@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="styles.css">
+    <title>Notepad</title>
+</head>
+<body>
+
+  <div class="stack">
+    <div class="sheet yellow"></div>
+    <div class="sheet pink-behind"></div>
+
+    <div class="card">
+      <img class="paperclip" src="image/paperclip.png" alt="paperclip">
+
+      <div class="header">
+        <img class="bow" src="image/bow.png" alt="bow">
+        <div class="title-pill">Notes</div>
+        <img class="bow" src="image/bow.png" alt="bow">
+      </div>
+
+      <div class="meta">
+        <div><span class="label">time :</span><span id="timeNow">--:--</span></div>
+        <div><span class="label">weather :</span><span id="weatherNow">--</span></div>
+      </div>
+
+      <div class="input-wrap">
+        <textarea id="noteInput" placeholder="Notes༊*·˚" rows="2"></textarea>
+      </div>
+
+      <div class="notes-list" id="notesList">
+        <div class="empty" id="emptyMsg">no notes yet ⋆｡°✩</div>
+      </div>
+
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
