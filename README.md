@@ -23,7 +23,7 @@
 - **CSS** 
 - **JavaScript**
 
-Final notepad project link : 
+Final notepad project link : https://serinariaz.github.io/My-melody-notepad/
 
   
 
