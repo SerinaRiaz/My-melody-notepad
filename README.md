@@ -3,7 +3,7 @@
 <img width="640" height="430" alt="Screenshot 2026-07-14 at 10 56 18 AM" src="https://github.com/user-attachments/assets/b0323c1a-60af-413e-882b-08710ea9d364" />
 
 ## 💭 About This Project
-<p>This notepad was made for practice, this is my first time experimenting with vibe-coding using Claude. I saw these cute graphic design note pads on pinterest and I really wsnted to code it. I did recently find out you can use these projects as widgets in notion aswell. You just copy the link(bottem on read me) and paste into notion and embed that, I will say it does look a lot better in light mode then it does dsrk mode. When you paste it you do have to crop it but other then that it's fully functional🎀.</p>
+<p>This notepad was made for practice, this is my first time experimenting with vibe coding using Claude. I saw these cute graphic design note pads on pinterest and I really wanted to code it. I did recently find out you can use these projects as widgets in notion aswell. You just copy the link(bottom on read me) and paste into notion and embed that, I will say it does look a lot better in light mode then it does dsrk mode. When you paste it you do have to crop it but other then that it's fully functional🎀.</p>
 
 ## 🎀 Functions 
 - ೃ⁀➷ **Write & Save Notes**  
